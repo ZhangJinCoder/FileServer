@@ -1,0 +1,1 @@
+go build -o fileserver.exe .\cmd\fileserver\main.go
